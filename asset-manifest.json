@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Traffic_light/static/css/main.e4155e14.css",
+    "main.js": "/Traffic_light/static/js/main.cd0ee854.js",
+    "static/js/453.74672097.chunk.js": "/Traffic_light/static/js/453.74672097.chunk.js",
+    "index.html": "/Traffic_light/index.html",
+    "main.e4155e14.css.map": "/Traffic_light/static/css/main.e4155e14.css.map",
+    "main.cd0ee854.js.map": "/Traffic_light/static/js/main.cd0ee854.js.map",
+    "453.74672097.chunk.js.map": "/Traffic_light/static/js/453.74672097.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4155e14.css",
+    "static/js/main.cd0ee854.js"
+  ]
+}
